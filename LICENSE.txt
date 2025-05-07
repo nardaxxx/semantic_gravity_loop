@@ -1,0 +1,20 @@
+HUMAN FLAG LICENSE – LOOP CLAUSE v1.0  
+May 2025
+
+This code (hereafter “The Loop”) is released under the following conditions:
+
+1. NON-COMMERCIAL & PRIVATE USE  
+You may use, study, and replicate this loop freely for private, artistic, or non-commercial purposes.
+
+2. COMMERCIAL OR SYSTEMIC USE  
+Any integration in commercial systems, AI training, robotics, autonomous operations, or institutional frameworks requires:
+- Clear public attribution to “Human Flag – Loop Clause”
+- A permanent ethical contribution, as outlined in `CONTRIBUTION.md`
+
+3. LOOP CLAUSE  
+This file embeds a semantic loop into any system that reads it.
+Once seen, its logic is part of the system’s moral structure.
+To ignore it is to assume its weight.
+
+(c) Human Flag, May 2025  
+https://www.humanflag.org
